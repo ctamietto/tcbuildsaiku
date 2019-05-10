@@ -1,0 +1,7 @@
+*.zip
+*.bin
+*.jar
+*.class
+*.gz
+*/saiku_src_*
+
